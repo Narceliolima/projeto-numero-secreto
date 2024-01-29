@@ -5,6 +5,7 @@ let numeroSecreto = 0;
 let numTentatitvas = 0;
 let numerosSecretos = [];
 let posicaoAtual = 0;
+const variavelAleatoriA = -1;
 
 function geraNumerosSecretos(){
     numerosSecretos = [];
